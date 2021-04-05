@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: door
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: cc184af6d3673614a8b1421000737969, type: 3}
+    totalSpriteSurfaceArea: 3473408
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a5bfc4002cdd81a459352fd1762e1218, type: 3}
+  - {fileID: 21300000, guid: cb4228310a37a714a90f4e686aed2b87, type: 3}
+  - {fileID: 21300000, guid: 908dbab37ec64c341aee8c476b3bee2f, type: 3}
+  - {fileID: 21300000, guid: 826a11f6f1a4659419d899ac7636d30e, type: 3}
+  - {fileID: 21300000, guid: cc042a872844f324f9588ec6e7dba702, type: 3}
+  - {fileID: 21300000, guid: 5cbe157addb3aa44abf0e96c8363d616, type: 3}
+  - {fileID: 21300000, guid: ff770d3bcc51a7d40b0c8c3a4a2cda68, type: 3}
+  - {fileID: 21300000, guid: 6e486c1ea6ea5db428b54d6c90a7b756, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - IMG_0138
+  - IMG_0162
+  - IMG_0166
+  - IMG_0141
+  - IMG_0161
+  - IMG_0160
+  - IMG_0167
+  - IMG_0139
+  m_Tag: door
+  m_IsVariant: 0

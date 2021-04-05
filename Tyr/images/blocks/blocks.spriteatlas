@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: blocks
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0be20819cde288444bc010149e615bf1, type: 3}
+    totalSpriteSurfaceArea: 1179648
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b681f501eeb1cfc409c279ea472cdb17, type: 3}
+  - {fileID: 21300000, guid: e8f75f11ac3d80e4c8457108535e4afe, type: 3}
+  - {fileID: 21300000, guid: 849811d13079ccd419770cc65bd68a4b, type: 3}
+  - {fileID: 21300000, guid: 0599c5d19bb52a749840613d183c86e1, type: 3}
+  - {fileID: 21300000, guid: 8791a8223652bbd4dad219402f0f971e, type: 3}
+  - {fileID: 21300000, guid: f3e4ace27d6f36543bd81897251b1d7d, type: 3}
+  - {fileID: 21300000, guid: dc7a9b7302818704696bd3cf7aed716e, type: 3}
+  - {fileID: 21300000, guid: edda00d492e43ac4c81431017e0522ac, type: 3}
+  - {fileID: 21300000, guid: 909e3b850cb319c48be4a35aa8800a00, type: 3}
+  - {fileID: 21300000, guid: a2445d967e241e041a47330227932bae, type: 3}
+  - {fileID: 21300000, guid: a37e5cc7b84b0a54ca954e79a31e20e2, type: 3}
+  - {fileID: 21300000, guid: 0cfcf4fa11597314f89852258e329918, type: 3}
+  - {fileID: 21300000, guid: 46d7012bf4bffd543be7bbce8089de8b, type: 3}
+  - {fileID: 21300000, guid: a883a1ebd65544c4fa080f053b737528, type: 3}
+  - {fileID: 21300000, guid: a6415ebc26b9f374683cd1f55634240b, type: 3}
+  - {fileID: 21300000, guid: 1a87200d18b3522488e6112fa35756a0, type: 3}
+  - {fileID: 21300000, guid: 98f7f79dbc573ea4db403a0ab4feac23, type: 3}
+  - {fileID: 21300000, guid: 068b76ae72b0bb94ebbf3ffcc434abf9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BF633253-8B9E-480E-AAFB-575A183C18A7
+  - 181DC3C4-47E7-4E12-88F7-95708B9C4490
+  - IMG_0068
+  - IMG_0062
+  - IMG_0063
+  - IMG_0067
+  - IMG_0059
+  - IMG_0065
+  - Thorns
+  - IMG_0064
+  - D92B7D51-CFBB-4553-8911-FCAC45FA7E0C
+  - IMG_0060
+  - 91B386A9-4ED7-4AAE-A98D-512F4BFF790A
+  - AABD3592-ECD3-4BC5-8E80-3AB59F45824B
+  - IMG_0090
+  - IMG_0066
+  - IMG_0089
+  - IMG_0061
+  m_Tag: blocks
+  m_IsVariant: 0

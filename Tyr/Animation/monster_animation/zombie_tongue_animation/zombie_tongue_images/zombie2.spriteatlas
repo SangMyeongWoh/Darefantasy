@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: zombie2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0b3d2c915e4d8484c8d2b876547363c5, type: 3}
+    totalSpriteSurfaceArea: 5505024
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 01d2bf02916ae074e8c0af02752dcb9d, type: 3}
+  - {fileID: 21300000, guid: 9a4c9392ea7123e4eb2707665030f1b4, type: 3}
+  - {fileID: 21300000, guid: b32883f3dd198184ebcf29a002bfd79c, type: 3}
+  - {fileID: 21300000, guid: 242a9334eabd98744a083c5402f691da, type: 3}
+  - {fileID: 21300000, guid: 7c0763641bc8e2b448edd4557dd09472, type: 3}
+  - {fileID: 21300000, guid: 7660a8c48d74bb146a61cda27f214fb4, type: 3}
+  - {fileID: 21300000, guid: d98a1dd4a1d0f074491384475fcde8a1, type: 3}
+  - {fileID: 21300000, guid: 3498d8e57ce2c9f4eb16fcbda42e2b58, type: 3}
+  - {fileID: 21300000, guid: a8fd98470dcaf864981759e418a4b569, type: 3}
+  - {fileID: 21300000, guid: b15d7d0acd49d6b4db9adc0b3388b2b6, type: 3}
+  - {fileID: 21300000, guid: 0678416aa2d1bd6449e9f1738279e90c, type: 3}
+  - {fileID: 21300000, guid: 7903e2abbe94d8d4dbce4e57e50187c4, type: 3}
+  - {fileID: 21300000, guid: d464000cd360f0143891a3a70fa8cfb2, type: 3}
+  - {fileID: 21300000, guid: a1549e5c94974744290e766aad6c12da, type: 3}
+  - {fileID: 21300000, guid: 22fbd8bcd69a9ec448ceec184deae481, type: 3}
+  - {fileID: 21300000, guid: 523a758d889383a4787e1193d993a904, type: 3}
+  - {fileID: 21300000, guid: 135c2cad54fbe764c87b9456543ac85f, type: 3}
+  - {fileID: 21300000, guid: 6718fcad1798e764fb1436c647c3a215, type: 3}
+  - {fileID: 21300000, guid: 1f5716bd0c42f064ab4defa8241d489e, type: 3}
+  - {fileID: 21300000, guid: e687637e52d460b429dba0fd3fabcc9d, type: 3}
+  - {fileID: 21300000, guid: 46a2fb9fd48b3ac4bb18297f134dc10d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 3
+  - 5
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-10"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-14"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-12"
+  - 2
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-6"
+  - 7
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-8"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-1"
+  - 1
+  - 4
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-3"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-2"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-4"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-11"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-7"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-9"
+  - 6
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-5"
+  - "\uAE30\uBCF8\uBAAC\uC2A4\uD130-13"
+  m_Tag: zombie2
+  m_IsVariant: 0
